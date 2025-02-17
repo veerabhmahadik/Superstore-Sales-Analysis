@@ -15,12 +15,8 @@ The **Superstore Sales Analysis** project aims to analyze sales data from an onl
 
 ## Installation & Setup
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/Superstore_Sales_Analysis.git
-   cd Superstore_Sales_Analysis
 2. **Install Required Packages**:
-pip install -r requirements.txt
+Install the packages from requirements.txt
 Download Dataset from Kaggle (if needed): https://www.kaggle.com/datasets/najir0123/walmart-10k-sales-datasets
 Dataset source: Walmart 10K Sales Dataset
 
