@@ -14,10 +14,8 @@ The **Superstore Sales Analysis** project aims to analyze sales data from an onl
 - **Kaggle API**: Dataset download.
 
 ## Installation & Setup
-
-2. **Install Required Packages**:
-Install the packages from requirements.txt
-Download Walmart 10K Sales Dataset from Kaggle: https://www.kaggle.com/datasets/najir0123/walmart-10k-sales-datasets
+-  Install the packages from requirements.txt
+-  Download Walmart 10K Sales Dataset from `walmart-10k-sales-datasets.zip` and extract the zip file
 
 ## Executing the code
 1. **Run Data Preprocessing**:
