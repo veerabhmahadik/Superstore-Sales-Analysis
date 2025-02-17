@@ -1,0 +1,4 @@
+Installed pandas using '!pip install pandas' in terminal/ code editor
+Installed pymysql which will as an adaptor in connection my MySQL RDBMS
+Installed sqlalchemy to import create_engine which is necessary in exporting
+data from python to a sql table.
